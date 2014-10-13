@@ -1,6 +1,9 @@
 #!/bin/sh
 
 # Requires:
+# autoconf
+# automake
+# libtool
 # uuid-dev
 # libaio-dev
 
